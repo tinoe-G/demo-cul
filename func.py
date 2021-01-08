@@ -1,4 +1,6 @@
-def name():
-   print("hello")
+#python function
+def name(name):
+   #hello world
+   print("hello",name)
  
-name()
+name("tinoe")
